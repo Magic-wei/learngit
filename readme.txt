@@ -1,7 +1,3 @@
-Git is a version control system.
-
-Git is free software.
-
+Git is a distributed version control system.
 I really want to learn how to use it.
 
-Add some changes to this file.
